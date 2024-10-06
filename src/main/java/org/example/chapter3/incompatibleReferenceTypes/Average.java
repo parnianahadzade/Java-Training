@@ -49,6 +49,7 @@ public class Average {
             double average = (double) total / count;
             System.out.println("The count is " + count);
             System.out.println("The average is " + average);
+            System.out.printf("The average is %.2f", average);
         }else {
             System.out.println("No grades were entered.");
         }
