@@ -1,4 +1,4 @@
-package org.example.chapter3.incompatibleReferenceTypes;
+package org.example.chapter3;
 
 import java.util.Scanner;
 

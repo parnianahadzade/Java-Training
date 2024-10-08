@@ -1,4 +1,4 @@
-package org.example.chapter3.incompatibleReferenceTypes;
+package org.example.chapter3;
 
 public class ConditionalOperator {
     public static void main(String[] args) {
